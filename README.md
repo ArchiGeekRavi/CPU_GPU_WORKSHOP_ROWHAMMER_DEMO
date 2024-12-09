@@ -31,11 +31,7 @@ lsb_release -a
 
 ##### Clone the github and add ramses as a submodule
 ```bash
-git clone https://github.com/vusec/hammertime.git
-cd hammertime
-rm -rf ramses 
-git rm --cached ramses
-git submodule add https://github.com/vusec/ramses.git
+git clone https://github.com/ArchiGeekRavi/CPU_GPU_WORKSHOP_ROWHAMMER_DEMO.git
 ```
 
 ##### Run and Profiling bit flips for rowhammer vulnerability :-
