@@ -1,7 +1,4 @@
 # Rowhammer Demonstration
-    1. Ravi Kumar Choubey
-    2. Mrityunjay Shukla
-
 ## Prequitistics
 RAMSES is implemented by Vusec and provides mapping functions for Intel Sandy Bridge, Ivy Bridge and Haswell memory controllers. Our Experiment was tested on Intel Haswell system with DDR3 Memory Module.
 
